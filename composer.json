@@ -1,0 +1,9 @@
+{
+    "name": "abdul.basit/mvc-framework",
+    "description": "Simple MVC framework with PHP",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
