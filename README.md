@@ -1,4 +1,4 @@
-# Core-PHP TodoList
+# corephp-todolist
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -36,7 +36,7 @@ Follow these steps to set up the CorePHP Todo project on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/corephp-todo.git
+   git clone https://github.com/yourusername/corephp-todolist.git
    ```
 
 2. **Change directory:**
