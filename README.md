@@ -55,17 +55,9 @@ Follow these steps to set up the CorePHP Todo project on your local machine:
 
 4. **Database Configuration:**
 
-   Set up your database connection in the `config/database.php` file.
+   Set up your database connection in the `includes/db.php` file.
 
-5. **Migrate the database:**
-
-   Run the migration to create necessary tables.
-
-   ```bash
-   php migrate.php
-   ```
-
-6. **Start the server:**
+5. **Start the server:**
 
    You can use PHP's built-in server for development.
 
@@ -73,7 +65,7 @@ Follow these steps to set up the CorePHP Todo project on your local machine:
    php -S localhost:8000
    ```
 
-7. **Access the application:**
+6. **Access the application:**
 
    Open your web browser and go to `http://localhost:8000` to access the application.
 
