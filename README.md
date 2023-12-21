@@ -2,6 +2,12 @@
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
+> [!Important]
+> This project showcases the general structure to implement the whole MVC architecture without using any framework.<br>
+
+> [!Warning]
+> This is partially working code hence it is open for contribution.
+
 The CorePHP Todo project is a simple yet powerful task management application built with PHP. It offers a range of functionalities including user authentication, task creation, viewing, editing, and deletion. This README will guide you through setting up and running the project on your local machine.
 
 ## Table of Contents
